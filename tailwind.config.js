@@ -15,8 +15,7 @@ export default {
       'mono': ['ui-monospace', 'SFMono-Regular'],
       'display': ['Oswald'],
       'body': ['"Open Sans"'],
-    },
-    extend: {
+      'roboto': ['Roboto', 'sans-serif'],
     },
   },
   plugins: [],
